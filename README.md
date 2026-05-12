@@ -1,8 +1,8 @@
 # 🐾 PetLink
 
-Sistema de gerenciamento de adoção de pets para ONGs e abrigos.
+Sistema de gerenciamento de adoção de pets.
 
-O PetLink conecta adotantes a animais disponíveis para adoção, permitindo que organizações façam o controle completo de pets, solicitações e aprovações de forma simples e organizada.
+O PetLink conecta adotantes a animais disponíveis para adoção, permitindo o controle completo de pets, solicitações e aprovações de forma simples e organizada.
 
 ---
 
@@ -62,7 +62,32 @@ O voluntário pode:
 
 ---
 
-# 🧱 Arquitetura
+# 🚀 Tecnologias
 
-```txt
-Frontend → API REST → Banco de Dados
+- Java 17 – linguagem principal
+- Spring Boot 3.x – framework para aplicações web
+- Spring MVC – controllers, rotas e views
+- Spring Data JPA (Jakarta Persistence) – persistência ORM
+- Thymeleaf – templates HTML dinâmicos
+- Jakarta Validation – validação com anotações (@NotNull, @NotBlank etc.)
+- Tailwind CSS – estilização (utilitários CSS)
+- HTML/CSS – estrutura e estilo de páginas
+- Git – versionamento
+
+---
+
+# 📄 Licença
+
+Este projeto está sob a licença MIT.
+
+---
+
+# ❤️ Sobre
+
+O PetLink foi desenvolvido com o objetivo de facilitar o processo de adoção responsável e ajudar ONGs a encontrarem novos lares para animais resgatados.
+
+---
+
+# 🐶 PetLink
+
+Tecnologia aproximando pets de novos lares.
