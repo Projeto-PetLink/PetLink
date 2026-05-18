@@ -4,10 +4,6 @@ Sistema de gerenciamento de adoção de pets.
 
 O PetLink conecta adotantes a animais disponíveis para adoção, permitindo o controle completo de pets, solicitações e aprovações de forma simples e organizada.
 
----
-
-# 📸 Preview
-
 <img width="1254" height="1254" alt="petlink_icon2" src="https://github.com/user-attachments/assets/999a0111-2504-43fd-a012-b07658bdff74" />
 
 ---
