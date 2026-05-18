@@ -8,7 +8,7 @@ O PetLink conecta adotantes a animais disponíveis para adoção, permitindo o c
 
 # 📸 Preview
 
-<img src="./docs/banner.png" alt="PetLink Banner">
+<img width="1254" height="1254" alt="petlink_icon2" src="https://github.com/user-attachments/assets/999a0111-2504-43fd-a012-b07658bdff74" />
 
 ---
 
